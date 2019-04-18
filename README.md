@@ -44,14 +44,3 @@ iv. **countInstructor** => used to return the number of instructor. Click on the
     0: uint256: 2 *Note: Same entry made twice*
    
 ***Following the above procedure many records can be created and the working of the function can be tested*
-
-
-
-
-
-
-
-
-
-
-0xca35b7d915458ef540ade6068dfe2f44e8fa733c
