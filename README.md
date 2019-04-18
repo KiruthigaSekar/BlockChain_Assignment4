@@ -18,7 +18,7 @@ Following are the steps to *compile, run and test* the contract:
 
 *Current version:0.5.0+commit.1d4f565a.Emscripten.clang*
 
-2.Now we can run the contract, by selecting **JavaScript VM** under the *Run* tab. Default address will be displayed once the JavaScript VM is selected, there is a *Copy value to Clipboard* option next to the address, we copy the address for future reference. Let the Gas Limit and Value be un changed.
+2. Now we can run the contract, by selecting **JavaScript VM** under the *Run* tab. Default address will be displayed once the JavaScript VM is selected, there is a *Copy value to Clipboard* option next to the address, we copy the address for future reference. Let the Gas Limit and Value be un changed.
 
 3. Click on **Deploy**, to deploy our contract. Once it is done, the deployed contracts can be viewed under **Deployed Contracts**, click on it to view the functions of the contract.
 
