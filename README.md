@@ -23,6 +23,7 @@ Following are the steps to *compile, run and test* the contract:
 3. Click on **Deploy**, to deploy our contract. Once it is done, the deployed contracts can be viewed under **Deployed Contracts**, click on it to view the functions of the contract.
 
 4. The following are the functions of the contract:
+
 i. **setInstructor** => used to create a new instructor, it takes *address(which we have copied earlier), integer for age, string for fName and lName* as parameters. Example input that I provided: 
     "0xca35b7d915458ef540ade6068dfe2f44e8fa733c",20,"Kirthi","Sekar"  
     **Address,fName and lName has to be enclosed within double quotes**
