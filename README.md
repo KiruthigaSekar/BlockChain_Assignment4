@@ -1,6 +1,8 @@
-# BlockChain_Assignment4_Part3
+# BlockChain_Assignment4_Part 3
 
 Name : Kiruthiga Sekar
+
+Separate Readme.md files are provided for the Part 1 and Part 2.
 
 I have used **RemixIDE** https://remix.ethereum.org/#optimize=false&version=soljson-v0.5.1+commit.c8a2cb62.js, to create and test, test functions.
 Compatible with **solidity 0.5 or higher**
